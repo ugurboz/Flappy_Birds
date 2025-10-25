@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\C#-Projeler\Flappy-Birds\obj\Debug\Flappy-Birds.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#-Projeler\Flappy-Birds\obj\Debug\Flappy_Birds.Form1.resources
+C:\Users\user\Desktop\C#-Projeler\Flappy-Birds\obj\Debug\Flappy_Birds.Properties.Resources.resources
+C:\Users\user\Desktop\C#-Projeler\Flappy-Birds\obj\Debug\Flappy-Birds.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C#-Projeler\Flappy-Birds\obj\Debug\Flappy-Birds.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#-Projeler\Flappy-Birds\bin\Debug\Flappy-Birds.exe.config
+C:\Users\user\Desktop\C#-Projeler\Flappy-Birds\bin\Debug\Flappy-Birds.exe
+C:\Users\user\Desktop\C#-Projeler\Flappy-Birds\bin\Debug\Flappy-Birds.pdb
+C:\Users\user\Desktop\C#-Projeler\Flappy-Birds\obj\Debug\Flappy-Birds.exe
+C:\Users\user\Desktop\C#-Projeler\Flappy-Birds\obj\Debug\Flappy-Birds.pdb
+C:\Users\user\Desktop\C#-Projeler\Flappy-Birds\obj\Debug\Flappy-Birds.exe.config
